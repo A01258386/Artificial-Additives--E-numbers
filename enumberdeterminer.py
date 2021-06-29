@@ -8,7 +8,7 @@
 
 
 
-# defined functions (with two lines before/after each function)
+
 def get_input():
     Enumber = int(input('Enter the E number behind the snack package to decode additive : '))
     return Enumber
